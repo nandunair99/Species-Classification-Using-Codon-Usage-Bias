@@ -19,3 +19,5 @@ Analyzed genomic sequences to distinguish three species based on codon usage pat
 Successfully visualized and classified species based on codon usage bias, optimizing clustering parameters for the best distinction.
 
 #Bioinformatics #Genomics #DataScience #MachineLearning #Clustering #KMeans #CodonUsage #AI
+
+The genomic sequences can be downloaded from : https://ftp.ensembl.org/pub/release-113/fasta/
